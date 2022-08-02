@@ -1,6 +1,6 @@
 package collection;
 
-public class List {
+public class ListSample {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
